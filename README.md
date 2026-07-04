@@ -36,6 +36,18 @@ As a member of the development team, I contributed to the following:
 This game was developed collaboratively as an academic team project. The contributions listed above represent my individual work on the project.
 
 ---
+## 🎯 Learning Outcomes
+
+Through this project, I gained experience in:
+
+- Unity game development
+- C# scripting
+- Multiplayer game development
+- Version control using GitHub
+- Team collaboration
+- Debugging and testing
+  
+  ---
 
 ## 📸 Screenshots
 
