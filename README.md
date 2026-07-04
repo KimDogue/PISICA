@@ -62,6 +62,11 @@ Through this project, I gained experience in:
 
 ---
 
+## 🎥 Gameplay Video
+
+▶️ Watch the gameplay here:
+https://youtu.be/gi2lEr4KpyI
+---
 ## 🚀 Status
 
 ✅ Academic Project Completed
