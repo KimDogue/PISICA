@@ -56,6 +56,11 @@ Through this project, I gained experience in:
 ![PISICA Poster](images/Poster.png)
 
 ---
+## 🎮 Main Menu
+
+![Main Menu](images/Menu.png)
+
+---
 
 ## 🚀 Status
 
