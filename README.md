@@ -51,7 +51,9 @@ Through this project, I gained experience in:
 
 ## 📸 Screenshots
 
-*Screenshots will be added here.*
+## 🎮 Game Poster
+
+![PISICA Poster](images/Poster.png)
 
 ---
 
