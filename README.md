@@ -66,15 +66,15 @@ Through this project, I gained experience in:
 
 ![Combat](images/Combat.png)
 
-## ⚔️ Equipment
+## 🛡️ Equipment
 
 ![Eqipment](images/Equipment.png)
 
-## ⚔️ Enemy Battle
+## 👹 Enemy Battle
 
 ![Enemy Battle](images/Enemy%20Battle.png)
 
-## ⚔️ 2 player 
+## 🌐 2 player 
 
 ![Multiplayer](images/Multiplayer.png)
 
@@ -87,6 +87,7 @@ Through this project, I gained experience in:
 https://youtu.be/dPPfn3QaPIg
 
 ## 🎥 VFX & SFX
+> The VFX & Sound Showcase video demonstrates the visual and audio effects that I implemented for the project.
 https://youtu.be/gi2lEr4KpyI
 ---
 ## 🚀 Status
