@@ -49,19 +49,29 @@ Through this project, I gained experience in:
   
   ---
 
-## 📸 Screenshots
+
 
 ## 🎮 Game Poster
 
 ![PISICA Poster](images/Poster.png)
 
 ---
+## 📸 Screenshots
+---
 ## 🎮 Main Menu
 
 ![Main Menu](images/Menu.png)
 
----
+## 🎮 Combat
 
+![Combat](images/Combat.png)
+
+## 🎮 Equipment
+
+![Eqipment](images/Equipment.png)
+
+
+---
 ## 🎥 Gameplay Video
 
 ▶️ Watch the gameplay here:
