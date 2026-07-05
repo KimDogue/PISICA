@@ -24,8 +24,9 @@ As a member of the development team, I contributed to the following:
 - Implemented player movement mechanics
 - Integrated player and enemy HP bars
 - Added and configured sound effects (SFX)
-- Created visual effects (VFX) and tested them during development.
+- Created and integrated player VFX.
 - Assisted in multiplayer testing
+- Developed enemy attack VFX during development.
 - Debugged gameplay features
 - Collaborated with teammates using GitHub
 
@@ -86,8 +87,8 @@ Through this project, I gained experience in:
 ▶️ Watch the gameplay here:
 https://youtu.be/dPPfn3QaPIg
 
-## 🎥 VFX Showcase
-This video demonstrates a visual effect that I created and tested during the development of PISICA. While it was not integrated into the final multiplayer build, it represents my contribution to the project's visual effects development.
+## 🎥 VFX Showcase Player and Enemy
+This video demonstrates a enemy visual effect that I created and tested during the development of PISICA. While it was not integrated into the final multiplayer build, it represents my contribution to the project's visual effects development.
 
 https://youtu.be/gi2lEr4KpyI
 ---
