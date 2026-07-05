@@ -65,6 +65,9 @@ Through this project, I gained experience in:
 ## 🎥 Gameplay Video
 
 ▶️ Watch the gameplay here:
+https://youtu.be/dPPfn3QaPIg
+
+## 🎥 VFX & SFX
 https://youtu.be/gi2lEr4KpyI
 ---
 ## 🚀 Status
