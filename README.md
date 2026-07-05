@@ -74,6 +74,11 @@ Through this project, I gained experience in:
 
 ![Enemy Battle](images/Enemy%20Battle.png)
 
+## ⚔️ 2 player 
+
+![Multiplayer](images/Multiplayer.png)
+
+
 
 ---
 ## 🎥 Gameplay Video
