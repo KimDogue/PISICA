@@ -62,13 +62,17 @@ Through this project, I gained experience in:
 
 ![Main Menu](images/Menu.png)
 
-## 🎮 Combat
+## ⚔️ Combat
 
 ![Combat](images/Combat.png)
 
-## 🎮 Equipment
+## ⚔️ Equipment
 
 ![Eqipment](images/Equipment.png)
+
+## ⚔️ Enemy Battle
+
+![Enemy Battle](images/Enemy%20Battle.png)
 
 
 ---
